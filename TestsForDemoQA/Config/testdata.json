@@ -1,0 +1,8 @@
+﻿{
+  "baseUrl": "https://demoqa.com/",
+  "browserSettings": {
+    "visibility": "--incognito",
+    "browserName": "firefox",
+    "language": "en-US"
+  }
+}
